@@ -63,7 +63,7 @@ if(@$_GET['act'] == ''){
 	 		</div>
 
 	 		<a class="btn btn-success" data-toggle="modal" data-target="#tambah" style="margin-bottom: 5px;"><i class="fa fa-plus"></i> Tambah Data</a>
-	 		<a class="btn btn-default" href="./report/export_excel_barang.php" target="blank" style="margin-bottom: 5px;><i class="fa fa-print"></i> Export Excel</a>
+	 		<a class="btn btn-danger" href="./report/export_excel_barang.php" target="blank" style="margin-bottom: 5px;><i class="fa fa-print"></i> Export Excel</a>
 	 		<a class="btn btn-danger" data-toggle="modal" data-target="#cetakpdf" style="margin-bottom: 5px;><i class="fa fa-print"></i> Cetak PDF</a>
 
 	 		<?php
