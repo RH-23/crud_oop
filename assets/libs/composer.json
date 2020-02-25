@@ -1,0 +1,15 @@
+{
+    "name": "rizki/libs",
+    "description": "Composer",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rizki Hariyanto",
+            "email": "rizkihariyanto23@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "tecnickcom/tcpdf": "dev-master"
+    }
+}
